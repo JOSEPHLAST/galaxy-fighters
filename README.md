@@ -49,7 +49,7 @@ cd galaxy-fighters
 
 ## 🖼️ Preview
 
-***[Homepage](galaxy-fighters-screenshot.png)***    
+***[!Game Screenshot](galaxy-fighters-screenshot.png)***    
 
 
 ## 🛠️ Built With
